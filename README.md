@@ -10,7 +10,7 @@ docker-compose up -d
 ```
 
 # Streaming app development using worker image
-Worker is the container used to run streaming apps (e.g. KStream or Python). Update [.\worker\Dockerfile]() then run .\bin\build-worker.sh
+Worker is the container used to run streaming apps (e.g. KStream or Python). Update [.\worker\Dockerfile](.\worker\Dockerfile) then run .\bin\build-worker.sh
 
 
 # Host Short-Cuts
